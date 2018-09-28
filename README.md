@@ -28,7 +28,7 @@
 4.4 Análisis exploratorio de datos.
 4.5 Determinación de frecuencias y análisis de expresión diferencial.
 
-## 5 RNA-sed  
+## 5 RNA-seq  
 5.1 Introducción a la transcriptomica
 5.2 Mapeo de datos de RNA-seq  
 5.3 Conteo de las lecturas mapeadas  
