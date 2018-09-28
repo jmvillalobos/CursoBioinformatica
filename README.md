@@ -5,7 +5,7 @@
    <th><img src="logoDNAbit.png"><th>
     
   </tr>
-</table>
+</table>  
 # Temario detallado  
 ## 1 Introducción a linux y shell  
 1.1 Linux/Unix, Principios básicos del Shell  
