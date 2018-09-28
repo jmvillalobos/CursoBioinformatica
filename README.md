@@ -2,7 +2,7 @@
 <table style="width:100%">
   <tr>
     
-    <th><img src="logoDisco.png" alt="logo1></th>
+    <th><img src="logoDisco.png" alt="logo1"></th>
     <th>![DNAbit](logoDNAbit.png)</th> 
   </tr>
 </table>
