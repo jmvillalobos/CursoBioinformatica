@@ -1,7 +1,7 @@
 # Curso: Análisis de secuenciación masiva del RNA (RNA-seq)
 <table style="width:100%">
   <tr>
-   <th><img src="logoDNAbit.png"><th>
+   <th><img src="logoDisco.png"><th>
    <th><img src="logoDNAbit.png"><th>
     
   </tr>
