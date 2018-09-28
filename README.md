@@ -2,7 +2,7 @@
 <table style="width:100%">
   <tr>
   
-   <th><img src="CursoBioinformatica/logoDNAbit.png"><th>
+   <th><img src="logoDNAbit.png"><th>
     
     <th>![DNAbit](logoDNAbit.png)</th> 
   </tr>
