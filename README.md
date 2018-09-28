@@ -1,8 +1,8 @@
 # Curso: Análisis de secuenciación masiva del RNA (RNA-seq)
 <table style="width:100%">
   <tr>
-    
-    <img src="CursoBioinformatica/logoDNAbit.png" width="600px" >
+  
+   <th><img src="CursoBioinformatica/logoDNAbit.png"><th>
     
     <th>![DNAbit](logoDNAbit.png)</th> 
   </tr>
