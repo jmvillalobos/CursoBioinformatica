@@ -46,8 +46,8 @@
 ## 6 Redes de co-expresión 
 6.1 Instroducción de las redes de co-expresión genética
 6.2 Construcción de matrices de coexpresión  
-6.3 Manuejo de WGCNA
-6.4 Visualización de redes en Citoescape
+6.3 Manuejo de WGCNA  
+6.4 Visualización de redes en Citoescape  
 6.5 Análisis de resultados
 
 
