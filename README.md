@@ -6,16 +6,16 @@
     
   </tr>
 </table>  
-# Temario detallado  
-## 1 Introducción a linux y shell  
-1.1 Linux/Unix, Principios básicos del Shell  
-1.2 Comandos para el manejo de archivos y directorios  
-1.3 Loops  
-1.4 Manejo de Scripts  
-1.5 Encontrar información: grep y find    
+# Temario detallado . 
+## 1 Introducción a linux y shell . 
+1.1 Linux/Unix, Principios básicos del Shell . 
+1.2 Comandos para el manejo de archivos y directorios . 
+1.3 Loops . 
+1.4 Manejo de Scripts . 
+1.5 Encontrar información: grep y find . 
 
-## 2 Introducción a R  
-2.1 Usando a R como una calculadora  
+## 2 Introducción a R . 
+2.1 Usando a R como una calculadora . 
 2.2 Sintaxis en R y uno de RStudio  
 2.3 Programando loops y condicionantes  
 2.4 Diseñando gráfica en R  
