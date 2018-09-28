@@ -17,7 +17,7 @@
 1.4 Manejo de Scripts  
 1.5 Encontrar información: grep y find  
 
-## 2 Introducción a R . 
+## 2 Introducción a R  
 2.1 Usando a R como una calculadora . 
 2.2 Sintaxis en R y uno de RStudio  
 2.3 Programando loops y condicionantes  
