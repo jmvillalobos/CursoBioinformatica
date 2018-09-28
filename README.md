@@ -68,7 +68,7 @@
 ## 2 Introducción a R  
 2.1 Usando a R como una calculadora . 
 2.2 Sintaxis en R y uno de RStudio  
-2.3 Programando loops y condicionantes  
+2.3 Programando loops y condicionantes   
 2.4 Diseñando gráfica en R  
 
 ## 3 Análisis de calidad y manejo de datos genómicos  
