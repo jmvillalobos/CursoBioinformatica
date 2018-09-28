@@ -1,6 +1,6 @@
 # Curso: Análisis de secuenciación masiva del RNA (RNA-seq)
-
-![langebio]()  
+![DNAbit](logoDisco.png)  
+![DNAbit](logoDNAbit.png)  
 # Temario detallado  
 ## 1 Introducción a linux y shell  
 1.1 Linux/Unix, Principios básicos del Shell  
