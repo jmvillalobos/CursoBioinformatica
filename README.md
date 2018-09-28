@@ -57,7 +57,7 @@
 
 
 
-# Sección   
+# Sección 2  
 ## 1 Introducción a linux y shell  
 1.1 Linux/Unix, Principios básicos del Shell  
 1.2 Comandos para el manejo de archivos y directorios  
