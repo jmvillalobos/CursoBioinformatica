@@ -78,11 +78,11 @@
  
 
 ## 4 Ensamble genómico
-4.1 Preprocesamiento de datos y filtrado de lecturas por calidad.
-4.2 Ensamble transcriptómico.
-4.3 Caracterización del ensamble y control de calidad.
-4.4 Análisis exploratorio de datos.
-4.5 Determinación de frecuencias y análisis de expresión diferencial.
+4.1 Preprocesamiento de datos y filtrado de lecturas por calidad.  
+4.2 Ensamble transcriptómico.  
+4.3 Caracterización del ensamble y control de calidad.  
+4.4 Análisis exploratorio de datos.  
+4.5 Determinación de frecuencias y análisis de expresión diferencial.   
 
 ## 5 RNA-seq  
 5.1 Introducción a la transcriptomica
