@@ -85,7 +85,7 @@
 4.5 Determinación de frecuencias y análisis de expresión diferencial.   
 
 ## 5 RNA-seq  
-5.1 Introducción a la transcriptomica
+5.1 Introducción a la transcriptomica  
 5.2 Mapeo de datos de RNA-seq  
 5.3 Conteo de las lecturas mapeadas  
 5.4 Expresión diferencial  
@@ -93,7 +93,7 @@
 5.6 Análisis de enriquecimiento  
 
 ## 6 Redes de co-expresión 
-6.1 Instroducción de las redes de co-expresión genética
+6.1 Instroducción de las redes de co-expresión genética  
 6.2 Construcción de matrices de coexpresión  
 6.3 Manuejo de WGCNA  
 6.4 Visualización de redes en Citoescape  
