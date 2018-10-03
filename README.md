@@ -32,7 +32,7 @@
   3.15 Sitios web de google  
 
 ### 3.2 GitHub  
-  3.21 GIT desde la terminal
+  3.21 GIT desde la terminal  
   3.22 Manejo de versiones  
   3.23 Repositorios de gitHub  
   3.24 Documentación  
