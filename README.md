@@ -25,18 +25,17 @@
 
 ## 3 Colaboraciones y reproducibilidad en genómica  
 
-3.1 Google Drive  
-3.2 Documentos  
-3.3 Hojas de cálculo  
-3.4 Formularios  
-3.5 Sitios web de google  
+### 3.1 Google Drive  
+  3.12 Documentos  
+  3.13 Hojas de cálculo  
+  3.14 Formularios  
+  3.15 Sitios web de google  
 
-## 4 GitHub  
-
-4.1 Lenguaje GIT  
-4.2 Manejo de versiones  
-4.3 Repositorios de gitHub  
-4.4 Documentación  
+### 3.2 GitHub  
+  3.21 GIT desde la terminal
+  3.22 Manejo de versiones  
+  3.23 Repositorios de gitHub  
+  3.24 Documentación  
 
 
 ## 5 Exploración de datos y procesamiento para genómica  
